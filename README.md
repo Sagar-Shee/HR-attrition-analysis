@@ -1,0 +1,2 @@
+# HR-attrition-analysis
+Study the Hr employee attrition data to identify the patters and causes of attrition with respect to various parameters. Identify the important parameter and generate helpful insights from them. Build model to predict if the employee is unsatisfied and will resign or is satisfied and will stay. Compare the parameters of a satisfied and an unsatisfied employee to come up with idea of what can be improved. Identify future attrition early so that proper measures can be taken on time. 
